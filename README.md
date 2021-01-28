@@ -3,5 +3,5 @@
 
 #############INSTRUCTIONS###########
 1) USE a PYTHON IDE to run.
-2) Open leapyear program.
+2) Open leapyear program in IDE.
 3) Press Run
